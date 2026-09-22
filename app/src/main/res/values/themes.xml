@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EchoSense" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/echo_background</item>
+        <item name="android:navigationBarColor">@color/echo_background</item>
+        <item name="android:windowBackground">@color/echo_background</item>
+    </style>
+</resources>

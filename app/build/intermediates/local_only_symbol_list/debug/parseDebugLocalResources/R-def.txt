@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color echo_amber
+color echo_background
+color echo_cyan
+color echo_green
+color echo_red
+color echo_surface
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string app_tagline
+style Theme.EchoSense
+xml backup_rules
+xml data_extraction_rules

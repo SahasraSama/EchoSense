@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.echosense.echo.DistanceEstimatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-09-22T13:33:51" hostname="SAHASRA" time="0.005">
+  <properties/>
+  <testcase name="testTemperatureCompensation" classname="com.echosense.echo.DistanceEstimatorTest" time="0.003"/>
+  <testcase name="testHonestFormattingForMediumConfidence" classname="com.echosense.echo.DistanceEstimatorTest" time="0.0"/>
+  <testcase name="testDistanceConversionAt20Celsius" classname="com.echosense.echo.DistanceEstimatorTest" time="0.0"/>
+  <testcase name="testOutlierRejection" classname="com.echosense.echo.DistanceEstimatorTest" time="0.0"/>
+  <testcase name="testInvalidEchoYieldsNoReliableEcho" classname="com.echosense.echo.DistanceEstimatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
